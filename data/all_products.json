@@ -1,0 +1,275 @@
+[
+    {
+      "id": 1,
+      "name": "Specialized StumpJumper FSR",
+      "category": "bikes",
+      "image": "./product_1.png",
+      "new_price": 2000,
+      "old_price": 3000
+    },
+    {
+      "id": 2,
+      "name": "Rockhoppper 29",
+      "category": "bikes",
+      "image": "./product_2.png",
+      "new_price": 700,
+      "old_price": 1100
+    },
+    {
+      "id": 3,
+      "name": "Cannondale Synapse carbon 4",
+      "category": "bikes",
+      "image": "./product_3.png",
+      "new_price": 2000,
+      "old_price": 2600
+    },
+    {
+      "id": 4,
+      "name": "Scott Addict 40",
+      "category": "bikes",
+      "image": "./product_4.png",
+      "new_price": 3250,
+      "old_price": 4000
+    },
+    {
+      "id": 5,
+      "name": "Racing Helmet AeroMax",
+      "category": "apparel",
+      "image": "./product_5.png",
+      "new_price": 180.0,
+      "old_price": 250.0
+    },
+    {
+      "id": 6,
+      "name": "Cycling Gloves Thermal",
+      "category": "apparel",
+      "image": "./product_6.png",
+      "new_price": 50.0,
+      "old_price": 75.0
+    },
+    {
+      "id": 7,
+      "name": "Wireless Cycling Computer",
+      "category": "parts",
+      "image": "./product_7.png",
+      "new_price": 120.0,
+      "old_price": 160.0
+    },
+    {
+      "id": 8,
+      "name": "Shimano S-Phyre SH-RC903",
+      "category": "apparel",
+      "image": "./product_8.png",
+      "new_price": 250,
+      "old_price": 400
+    },
+    {
+      "id": 9,
+      "name": "Bike Lights Front & Rear Set",
+      "category": "parts",
+      "image": "./product_9.png",
+      "new_price": 30.0,
+      "old_price": 50.0
+    },
+    {
+      "id": 10,
+      "name": "Cycling Jersey Pro Team",
+      "category": "apparel",
+      "image": "./product_10.png",
+      "new_price": 85.0,
+      "old_price": 120.0
+    },
+    {
+      "id": 11,
+      "name": "Cycling Bib Shorts",
+      "category": "apparel",
+      "image": "./product_11.png",
+      "new_price": 90.0,
+      "old_price": 150.0
+    },
+    {
+      "id": 12,
+      "name": "Specialized centro LED helmet",
+      "category": "apparel",
+      "image": "./product_12.png",
+      "new_price": 50.0,
+      "old_price": 80.5
+    },
+    {
+      "id": 13,
+      "name": "Hydration Backpack",
+      "category": "parts",
+      "image": "./product_13.png",
+      "new_price": 60.0,
+      "old_price": 90.0
+    },
+    {
+      "id": 14,
+      "name": "Shimano Ultegra R8100-p dual-sided power meter",
+      "category": "parts",
+      "image": "./product_14.png",
+      "new_price": 900,
+      "old_price": 1350
+    },
+    {
+      "id": 15,
+      "name": "Shimano 105 Di2 R7100 Group Set",
+      "category": "parts",
+      "image": "./product_15.png",
+      "new_price": 1100,
+      "old_price": 1500
+    },
+    {
+      "id": 16,
+      "name": "Mountain Bike Pedals",
+      "category": "parts",
+      "image": "./product_16.png",
+      "new_price": 55.0,
+      "old_price": 80.0
+    },
+    {
+      "id": 17,
+      "name": "Shimano Road Shoes - RC903 - White",
+      "category": "apparel",
+      "image": "./product_17.png",
+      "new_price": 300,
+      "old_price": 550
+    },
+    {
+      "id": 18,
+      "name": "Disc Brakes Set",
+      "category": "parts",
+      "image": "./product_18.png",
+      "new_price": 200.0,
+      "old_price": 280.0
+    },
+    {
+      "id": 19,
+      "name": "Bike Saddle Gel Padded",
+      "category": "parts",
+      "image": "./product_19.png",
+      "new_price": 75.0,
+      "old_price": 100.0
+    },
+    {
+      "id": 20,
+      "name": "Cycling Shoes Road Race",
+      "category": "apparel",
+      "image": "./product_20.png",
+      "new_price": 180.0,
+      "old_price": 220.0
+    },
+    {
+      "id": 21,
+      "name": "Bike Tool Kit 20-in-1",
+      "category": "parts",
+      "image": "./product_21.png",
+      "new_price": 45.0,
+      "old_price": 60.0
+    },
+    {
+      "id": 22,
+      "name": "Bike Chain Cleaner",
+      "category": "parts",
+      "image": "./product_22.png",
+      "new_price": 25.0,
+      "old_price": 35.0
+    },
+    {
+      "id": 23,
+      "name": "Bike Stand Foldable",
+      "category": "parts",
+      "image": "./product_23.png",
+      "new_price": 60.0,
+      "old_price": 85.0
+    },
+    {
+      "id": 24,
+      "name": "Cycling Sunglasses UV400",
+      "category": "apparel",
+      "image": "./product_24.png",
+      "new_price": 40.0,
+      "old_price": 70.0
+    },
+    {
+      "id": 25,
+      "name": "Bike Helmet Lightweight",
+      "category": "apparel",
+      "image": "./product_25.png",
+      "new_price": 100.0,
+      "old_price": 150.0
+    },
+    {
+      "id": 26,
+      "name": "Cycling Water Bottle",
+      "category": "parts",
+      "image": "./product_26.png",
+      "new_price": 20.0,
+      "old_price": 30.0
+    },
+    {
+      "id": 27,
+      "name": "Bike Bell Classic",
+      "category": "parts",
+      "image": "./product_27.png",
+      "new_price": 10.0,
+      "old_price": 15.0
+    },
+    {
+      "id": 28,
+      "name": "Cannondale",
+      "category": "bikes",
+      "image": "./product_28.png",
+      "new_price": 5000,
+      "old_price": 7500
+    },
+    {
+      "id": 29,
+      "name": "Bike Headlight Rechargeable",
+      "category": "parts",
+      "image": "./product_29.png",
+      "new_price": 40.0,
+      "old_price": 60.0
+    },
+    {
+      "id": 30,
+      "name": "Cycling Cap Windproof",
+      "category": "apparel",
+      "image": "./product_30.png",
+      "new_price": 15.0,
+      "old_price": 25.0
+    },
+    {
+      "id": 31,
+      "name": "Cycling Socks Breathable",
+      "category": "apparel",
+      "image": "./product_31.png",
+      "new_price": 10.0,
+      "old_price": 15.0
+    },
+    {
+      "id": 32,
+      "name": "Bike Repair Stand",
+      "category": "parts",
+      "image": "./product_32.png",
+      "new_price": 120.0,
+      "old_price": 180.0
+    },
+    {
+      "id": 33,
+      "name": "Bike Frame Bag",
+      "category": "parts",
+      "image": "./product_33.png",
+      "new_price": 35.0,
+      "old_price": 50.0
+    },
+    {
+      "id": 34,
+      "name": "Foam Roller for Muscle Recovery",
+      "category": "apparel",
+      "image": "./product_34.png",
+      "new_price": 30.0,
+      "old_price": 45
+    }
+]
+  
