@@ -1,29 +1,40 @@
 import express from "express";
 const router = express.Router();
 import fs from "fs";
+import path from "path";
+
+// Base URL for images
+const BASE_URL = "http://localhost:8585/images/";
 
 // GET all products
 router.get("/", (req, res) => {
     const productsBuffer = fs.readFileSync("./data/all_products.json");
     const products = JSON.parse(productsBuffer);
 
-    res.send(products);
+    const productsWithImages = products.map(product => ({
+        ...product,
+       image: `${BASE_URL}${path.basename(product.image)}`
+    }));
+
+    res.send(productsWithImages);
 });
 
-// GET a video by ID
+// GET a product by ID
 router.get("/:id", (req, res) => {
-    const videosId = req.params.id;
+    const productId = Number(req.params.id); 
 
     const productsBuffer = fs.readFileSync("./data/all_products.json");
     const products = JSON.parse(productsBuffer);
 
-    const foundProduct = products.find((video) => video.id === videosId);
+    // Find product by ID
+    const foundProduct = products.find(product => product.id === productId);
 
     if (!foundProduct) {
         return res.status(404).send("Item not found with that id");
     }
 
-    foundProduct.image = `http://localhost:8080/images/${foundProduct.image}`;
+    // Update image path
+    foundProduct.image = `${BASE_URL}${foundProduct.image}`;
 
     res.send(foundProduct);
 });
