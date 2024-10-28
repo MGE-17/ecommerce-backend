@@ -270,6 +270,13 @@
       "image": "./product_34.png",
       "new_price": 30.0,
       "old_price": 45
+    },
+    {
+      "id": 35,
+      "name": "Specialized S-works prevail Helmet",
+      "image": "./product_35.png", 
+      "new_price": 85.0,
+      "old_price": 120.5
     }
 ]
   

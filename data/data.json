@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Specialized StumpJumper FSR",
+      "image": "./product_1.png",  
+      "new_price": 2000,
+      "old_price": 3000
+    },
+    {
+      "id": 2,
+      "name": "Rockhopper 29",
+      "image": "./product_2.png",  
+      "new_price": 700,
+      "old_price": 1100
+    },
+    {
+      "id": 3,
+      "name": "Cannondale Synapse carbon 4",
+      "image": "./product_3.png",  
+      "new_price": 2000,
+      "old_price": 2600
+    },
+    {
+      "id": 4,
+      "name": "Scott Addict 40",
+      "image": "./product_4.png", 
+      "new_price": 3250,
+      "old_price": 4000
+    }
+  ]
+  
